@@ -1,4 +1,3 @@
-
 # /bin/python !
 # https://github.com/MrHacker-X/
 
